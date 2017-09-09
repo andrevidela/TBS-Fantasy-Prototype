@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>weaponNames</key>
+	<dict>
+		<key>shield</key>
+		<array>
+			<string>Defender</string>
+			<string>Aegis</string>
+			<string>Shield</string>
+			<string>Guard</string>
+			<string>Tower Shield</string>
+			<string>Heater</string>
+		</array>
+		<key>crossbow</key>
+		<array>
+			<string>Crossbow</string>
+			<string>Arbalest</string>
+		</array>
+		<key>bow</key>
+		<array>
+			<string>Warbow</string>
+			<string>Bow</string>
+			<string>Longbow</string>
+		</array>
+		<key>axe2h</key>
+		<array>
+			<string>Waraxe</string>
+			<string>Giant Battleaxe</string>
+		</array>
+		<key>axe1h</key>
+		<array>
+			<string>Axe</string>
+			<string>Battleaxe</string>
+			<string>Tomahawk</string>
+			<string>Adze</string>
+		</array>
+		<key>sword2h</key>
+		<array>
+			<string>Broadsword</string>
+			<string>Greatsword</string>
+			<string>Claymore</string>
+			<string>Longsword</string>
+			<string>Beheader</string>
+			<string>Executioner</string>
+			<string>Warglaive</string>
+			<string>Warsword</string>
+			<string>Bastard Sword</string>
+		</array>
+		<key>sword1h</key>
+		<array>
+			<string>Sword</string>
+			<string>Shortsword</string>
+			<string>Blade</string>
+			<string>Rapier</string>
+			<string>Saber</string>
+			<string>Falchion</string>
+			<string>Glaive</string>
+		</array>
+	</dict>
+</dict>
+</plist>

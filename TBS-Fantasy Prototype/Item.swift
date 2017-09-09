@@ -116,7 +116,7 @@ class EquippableItem: Item, Sellable
         case 2:
             return "Rare"
         default:
-            return "Ultra-rare!"
+            return "Ultra-rare"
         }
     }
 

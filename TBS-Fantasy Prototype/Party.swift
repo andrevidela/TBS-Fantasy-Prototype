@@ -6,4 +6,7 @@
 //  Copyright © 2017 Hammer Forged Games. All rights reserved.
 //
 
-
+class Party
+{
+    let player1 = PlayerCharacter(name: "Burt")
+}
